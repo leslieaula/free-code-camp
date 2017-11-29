@@ -4,7 +4,7 @@
   "description": "Free Code Camp Exercise",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node index.js"
   },
   "keywords": [
     "Node",
@@ -13,5 +13,8 @@
     "Application"
   ],
   "author": "Leslie Aula",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
 }
