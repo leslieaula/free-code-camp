@@ -16,5 +16,14 @@
   "license": "MIT",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leslieaula/free-code-camp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/leslieaula/free-code-camp/issues"
+  },
+  "homepage": "https://github.com/leslieaula/free-code-camp#readme"
 }
